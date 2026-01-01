@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.whatsapp-btn{
+ position:fixed;
+ bottom:20px;
+ right:20px;
+ background:#25D366;
+ color:white;
+ padding:14px 16px;
+ border-radius:50%;
+ font-size:24px;
+ text-decoration:none;
+ z-index:9999;
+}
+</style>
+</head>
+<body>
+<a href="https://wa.me/916378377421" target="_blank" class="whatsapp-btn">💬</a>
+</body>
+</html>
 # whatsappchat
